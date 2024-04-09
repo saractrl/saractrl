@@ -13,4 +13,4 @@ I'm a software developer based in Luzern, Switzerland. Welcome to my GitHub prof
 Feel free to reach out and connect!
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saractrl)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-henna-two-34.vercel.app/api?username=saractrl&show_icons=true)
