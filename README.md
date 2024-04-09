@@ -1,4 +1,4 @@
-# Hello, I'm Sara! 👋
+# Hello, I'm Sara! 
 
 I'm a software developer based in Luzern, Switzerland. Welcome to my GitHub profile!
 
@@ -13,4 +13,4 @@ I'm a software developer based in Luzern, Switzerland. Welcome to my GitHub prof
 Feel free to reach out and connect!
 
 
-![Anurag's GitHub stats](https://github-readme-stats-henna-two-34.vercel.app/api?username=saractrl&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-henna-two-34.vercel.app/api?username=saractrl&show_icons=true&theme=jolly)
