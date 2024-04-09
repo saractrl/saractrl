@@ -16,4 +16,4 @@ Feel free to reach out and connect!
 ![Anurag's GitHub stats](https://github-readme-stats-henna-two-34.vercel.app/api?username=saractrl&show_icons=true&theme=jolly)
 
 
-[![Top Langs](https://github-readme-stats-henna-two-34.vercel.app/api/top-langs/?username=saractrl&layout=donut-vertical&theme=jolly)
+![Top Langs](https://github-readme-stats-henna-two-34.vercel.app/api/top-langs/?username=saractrl&layout=donut-vertical&theme=jolly)
