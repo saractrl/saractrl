@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, I'm Sara! 👋
 
-<!--
-**saractrl/saractrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer based in Luzern, Switzerland. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+.
+- 📫 How to reach me: [E-Mail](sara.ctrl@outlook.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/sara-esmeralda-cabrera-ramirez-649b9b236/)
+
+Feel free to reach out and connect!
