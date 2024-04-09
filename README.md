@@ -11,3 +11,6 @@ I'm a software developer based in Luzern, Switzerland. Welcome to my GitHub prof
 - [LinkedIn](https://www.linkedin.com/in/sara-esmeralda-cabrera-ramirez-649b9b236/)
 
 Feel free to reach out and connect!
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saractrl)](https://github.com/anuraghazra/github-readme-stats)
