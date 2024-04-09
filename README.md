@@ -4,7 +4,7 @@ I'm a software developer based in Luzern, Switzerland. Welcome to my GitHub prof
 
 ## About Me
 - I'm a student at the Informatikmittelschule in Luzern.
-- I'm starting my internship at Luzerner Kantonalbank in August.
+- I'm starting my internship at the Luzerner Kantonalbank in August 2024.
 
 ## Connect with Me
 - [E-Mail](sara.ctrl@outlook.com)
