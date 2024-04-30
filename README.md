@@ -7,10 +7,6 @@ I'm a software developer based in Luzern, Switzerland. Welcome to my GitHub prof
 - I'm starting my internship at the Luzerner Kantonalbank in August 2024.
 - Currently working on the repositories tatt-up and tatt-up-frontend. 
 
-## Connect with Me
-- [E-Mail](mailto:sara.ctrl@outlook.com)
-- [LinkedIn](https://www.linkedin.com/in/sara-esmeralda-cabrera-ramirez-649b9b236/)
-
 ## Technologies I Use
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -38,6 +34,9 @@ I'm a software developer based in Luzern, Switzerland. Welcome to my GitHub prof
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+## Connect with Me
+- [E-Mail](mailto:sara.ctrl@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/sara-esmeralda-cabrera-ramirez-649b9b236/)
 
 Feel free to reach out and connect!
 
